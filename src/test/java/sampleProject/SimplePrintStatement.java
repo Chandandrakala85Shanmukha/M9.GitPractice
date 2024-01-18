@@ -6,6 +6,8 @@ public class SimplePrintStatement {
 		
 		System.out.println("Hello");
 		
+		System.out.println("Practice to do commit and push");
+		
 	}
 
 }

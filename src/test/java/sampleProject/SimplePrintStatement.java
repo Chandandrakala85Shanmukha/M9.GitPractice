@@ -8,6 +8,7 @@ public class SimplePrintStatement {
 		
 		System.out.println("Practice to do commit and push");
 		
+		System.out.println("Trail and error");
 	}
 
 }
